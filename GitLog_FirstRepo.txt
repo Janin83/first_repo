@@ -1,0 +1,11 @@
+commit cb22002dbd4200513b2639ebde24bfe6d459751c
+Author: Janin83 <j.riedelsberger@gmx.de>
+Date:   Thu Apr 9 22:52:29 2020 -0300
+
+    added gitignore
+
+commit 21e591d0763a4a2fb428b509f7841c8a83f29929
+Author: Janin83 <j.riedelsberger@gmx.de>
+Date:   Wed Apr 8 23:48:16 2020 -0300
+
+    added readme.txt
