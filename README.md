@@ -1,30 +1,36 @@
-# This is a large heading
+# This is Me
 
-## This is a smaller heading
+## Are you sure you want to open this box? 
 
-And this **imagination** bodies forth,
-The form of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+**You** asked for it. Now live with your decision!
 
-- This is
-- an unordered
-- list
+*The globetrotter*
 
-1. This is
-2. an ordered
-3. list
+- Grew up in Germany
+- Living in Chile
+- Kind of a second home in the US
 
-Here is `some code` in the middle of the sentence.
+*Who am I sharing the house with you ask?*
 
-```
-This is
-a block
-of code
-```
+1. Benito
+2. Benji
 
-Here is how you make [a link] (https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/down)
+## What is living with them like?
 
-vi README.md
+*Are they helping in the household?*
+- Only in a reverse sense.
+- Leaving there hair all over the place.
+- Do not clean their feet when entering the house.
+- Do clean their plates very well.
+
+*Do they pay rent?*
+- Should have discussed that before letting them in.
+
+*Will I kick them out?*
+- **Excuse me?**
+- Of course not!
+- They have very inocent faces and are fluffy, which make up for many things.
+
+
+
